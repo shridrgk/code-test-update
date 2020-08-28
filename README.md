@@ -1,6 +1,8 @@
 # Frontend Code Test
 **HTML** - Can be plain HTML, JavaScript template literals or you can use a template library.
+
 **CSS** - Use a pre-processor, whichever you feel most comfortable with.
+
 **JavaScript** - Use only plain vanilla JavaScript, you can use whichever modern standards you like however. No libraries or frameworks, except if you want to use a template library for above.
 
 Replicate **design.png** in the design folder as best you can, populate it with **code-test.json** found in the JSON folder.
