@@ -5,6 +5,8 @@
 
 **JavaScript** - Use only plain vanilla JavaScript, you can use whichever modern standards you like however. No libraries or frameworks, except if you want to use a template library for above.
 
+**Github** - Commit this to your own public Github account, with regular commits including descriptions.
+
 Replicate **design.png** in the design folder as best you can, populate it with **code-test.json** found in the JSON folder.
 
 ## Notes
